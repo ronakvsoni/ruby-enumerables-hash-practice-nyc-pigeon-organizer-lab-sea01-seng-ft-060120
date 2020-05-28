@@ -12,5 +12,4 @@ if !final_array[name][key]
 end
 
 
-binding.pry
-end
+
